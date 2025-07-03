@@ -1,1 +1,1 @@
-<a href="https://nataliiasergeeva.github.io/rsschool-cv/cv">rsschool CV</a>
+<a href="https://nataliiasergeeva.github.io/rsschool-cv/">CV</a>
